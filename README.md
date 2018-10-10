@@ -1,2 +1,2 @@
 # animated-happiness
-https://github.com/chrisrust/REPOSITORY.git
+https://github.com/username/REPOSITORY.git
